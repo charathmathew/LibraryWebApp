@@ -1,5 +1,4 @@
-# library-admin
-
+# A Library Web App
 > A Vue.js project
 
 ## Build Setup
