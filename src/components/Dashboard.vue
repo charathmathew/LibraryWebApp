@@ -15,7 +15,7 @@
 
         <div class="fixed-action-btn">
             <router-link to="/new" class="btn-floating btn-large red">
-                <i class="fa fa-plus"></i>
+                <i class="material-icons">library_add</i>
             </router-link>
         </div>
     </div>

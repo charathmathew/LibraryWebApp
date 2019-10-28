@@ -2,7 +2,7 @@
     <nav>
         <div class="nav-wrapper blue">
             <div class="container">
-                <router-link to="/" class="brand-logo">Library Admin</router-link>
+                <router-link to="/" class="brand-logo"><i class="fa fa-book white-text"></i>Library Admin</router-link>
                 <ul class="right">
                     <li v-if="isLoggedIn"><span class="email white-text">{{currentUser}}</span></li>
                     <li v-if="isLoggedIn"><router-link to="/">Home</router-link></li>
